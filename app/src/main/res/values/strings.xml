@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BFA Apps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repository_detail">Repository</string>
+    <string name="followers_detail">Followers</string>
+    <string name="following_detail">Following</string>
+    <string name="name_detail">Nama</string>
+    <string name="username_detail">username</string>
+    <string name="location_detail">-</string>
+    <string name="company_detail">-</string>
+    <string name="change_language">Change Language</string>
+    <string name="setting_alarm">Settings Alarm</string>
+</resources>
